@@ -2,6 +2,8 @@
 
 ## Description
 
+Link to original repository https://github.com/jacksonmaltby/where-wolf
+
 Where Wolf? is a search application that allows users to search for different types of businesses in a chosen location that either do or don't allow dogs. It uses the Yelp Fusion API to retrieve businesses with the desired search parameters, and then displays those businesses on an interactive map via the Leaflet API.
 
 ## Features
